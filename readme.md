@@ -1,4 +1,4 @@
-Your eslint should be like this:
+Your projects's eslint should be like this:
 
 module.exports = {
   "extends": [
